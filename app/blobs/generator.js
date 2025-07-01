@@ -2,7 +2,7 @@ import blobshape from 'blobshape';
 import { randomInt, uniqueName } from 'utils';
 
 const gradientColors = [
-    ['#e96443', '#904e95'],
+    ['#e96443', '#000005'],
     ['#ff5f6d', '#ffc371'],
     ['#eecda3', '#ef629f'],
     ['#4ca1af', '#c4e0e5'],
